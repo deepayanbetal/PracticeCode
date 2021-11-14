@@ -1,0 +1,15 @@
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\bin\Debug\PracticeProgramms.exe.config
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\bin\Debug\PracticeProgramms.exe
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\bin\Debug\PracticeProgramms.pdb
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\bin\Debug\EntityFramework.dll
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\bin\Debug\EntityFramework.xml
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\obj\Debug\PracticeProgramms.ADOPrac.Form1.resources
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\obj\Debug\PracticeProgramms.Migrations.InitialMigration.resources
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\obj\Debug\PracticeProgramms.csproj.GenerateResource.cache
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\obj\Debug\PracticeProgramms.csproj.CoreCompileInputs.cache
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\obj\Debug\PracticeProgramms.csproj.CopyComplete
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\obj\Debug\PracticeProgramms.exe
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\obj\Debug\PracticeProgramms.pdb
+C:\Users\DEEPAYAN\source\repos\PracticeProgramms\PracticeProgramms\obj\Debug\PracticeProgramms.csprojAssemblyReference.cache
